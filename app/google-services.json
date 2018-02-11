@@ -1,0 +1,174 @@
+{
+  "project_info": {
+    "project_number": "526025832878",
+    "firebase_url": "https://ukomsab.firebaseio.com",
+    "project_id": "ukomsab",
+    "storage_bucket": "ukomsab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526025832878:android:47cfc3e9b4587615",
+        "android_client_info": {
+          "package_name": "com.example.sans.ukom_sab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526025832878-l4hslpr3hogmrreievc4i7e4tq9cnbhc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sans.ukom_sab",
+            "certificate_hash": "5ba70a4cf49831efbc6bc2d0d826ef6e01063f3e"
+          }
+        },
+        {
+          "client_id": "526025832878-rl92n6ni1vv4mgsq2396pg1ddle0dcov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSXAcph1qLn9PqPQuYT5RenxFWGWt8V6E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526025832878-rl92n6ni1vv4mgsq2396pg1ddle0dcov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526025832878:android:ee39bff6db6be3ec",
+        "android_client_info": {
+          "package_name": "com.example.sans.ritualkuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526025832878-rkgncihcfp6u5v6aijvin0k5f8oc35pq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sans.ritualkuy",
+            "certificate_hash": "5ba70a4cf49831efbc6bc2d0d826ef6e01063f3e"
+          }
+        },
+        {
+          "client_id": "526025832878-rl92n6ni1vv4mgsq2396pg1ddle0dcov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSXAcph1qLn9PqPQuYT5RenxFWGWt8V6E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526025832878-rl92n6ni1vv4mgsq2396pg1ddle0dcov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526025832878:android:3f5192377659e250",
+        "android_client_info": {
+          "package_name": "net.simplifiedcoding.firebasedatabaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526025832878-rl92n6ni1vv4mgsq2396pg1ddle0dcov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSXAcph1qLn9PqPQuYT5RenxFWGWt8V6E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526025832878:android:4237ed305c89d42f",
+        "android_client_info": {
+          "package_name": "com.example.sans.ukomsekolah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526025832878-mh8il31qfve5acf9ct0va9krut2kpdc9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sans.ukomsekolah",
+            "certificate_hash": "5ba70a4cf49831efbc6bc2d0d826ef6e01063f3e"
+          }
+        },
+        {
+          "client_id": "526025832878-rl92n6ni1vv4mgsq2396pg1ddle0dcov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSXAcph1qLn9PqPQuYT5RenxFWGWt8V6E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526025832878-rl92n6ni1vv4mgsq2396pg1ddle0dcov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
